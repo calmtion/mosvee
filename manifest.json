@@ -1,0 +1,38 @@
+{
+  "name": "mosvee",
+  "short_name": "mosvee",
+  "start_url": "https://www.mosvee.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Most View",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-FHLGPQO6ivg/Xc_4YHc_O7I/AAAAAAAAA6A/iuJLyoBajKgL0xroXptNGUjLyMx40-4YQCLcBGAsYHQ/s48/favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FHLGPQO6ivg/Xc_4YHc_O7I/AAAAAAAAA6A/iuJLyoBajKgL0xroXptNGUjLyMx40-4YQCLcBGAsYHQ/s72/favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FHLGPQO6ivg/Xc_4YHc_O7I/AAAAAAAAA6A/iuJLyoBajKgL0xroXptNGUjLyMx40-4YQCLcBGAsYHQ/s96/favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FHLGPQO6ivg/Xc_4YHc_O7I/AAAAAAAAA6A/iuJLyoBajKgL0xroXptNGUjLyMx40-4YQCLcBGAsYHQ/s144/favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FHLGPQO6ivg/Xc_4YHc_O7I/AAAAAAAAA6A/iuJLyoBajKgL0xroXptNGUjLyMx40-4YQCLcBGAsYHQ/s168/favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FHLGPQO6ivg/Xc_4YHc_O7I/AAAAAAAAA6A/iuJLyoBajKgL0xroXptNGUjLyMx40-4YQCLcBGAsYHQ/s192/favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FHLGPQO6ivg/Xc_4YHc_O7I/AAAAAAAAA6A/iuJLyoBajKgL0xroXptNGUjLyMx40-4YQCLcBGAsYHQ/s512/favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
